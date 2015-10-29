@@ -1,5 +1,14 @@
 # Created by https://www.gitignore.io/api/node,webstorm
 
+### custom
+main/*.js*
+
+### tsd typings ###
+typings
+
+### production/distribution ###
+dist
+
 ### Node ###
 # Logs
 logs
